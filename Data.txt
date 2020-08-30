@@ -1,0 +1,1 @@
+We will be using data such as the weather, road conditions, lighting conditions and much more. We will be using as many independent variables as possible to help predict the severity of an accident. Categorical variables have been hot encoded to better suit the machine learning algorithm. 

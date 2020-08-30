@@ -1,0 +1,1 @@
+My initial problem is that emergency services occassionally doesn't arrive on scene with necessary equiptment. By analyzing the data we can predict the severity of that accident and this will enable them to act accordingly. 
